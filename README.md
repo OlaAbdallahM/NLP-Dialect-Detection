@@ -14,7 +14,7 @@ https://github.com/MohamedEssam7/NLP-Dialect-Detection/assets/52338861/d77723ef-
   ### 01 Data Fetching
    - used SQLite connection and pandas to perform a join query and save the result in a dataframe.
 
-  ### 02 Dara pre processing
+  ### 02 Data pre processing
    - Preprocessing has a pipeline that applied to our fetched dataset:
      - Removing Punctuations
      - Removing Symbols
