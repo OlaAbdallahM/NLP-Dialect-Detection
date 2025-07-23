@@ -1,0 +1,6 @@
+[general]
+ignore=body-is-missing
+
+[title-match-regex]
+regex=^(feat|fix|chore|docs|refactor|test|ci)\: .+$
+error-msg=❌ Commit message must start with type: e.g. feat:, fix:, chore:, etc.
