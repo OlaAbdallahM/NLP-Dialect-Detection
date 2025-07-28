@@ -1,5 +1,4 @@
-# Fake API key for testing gitleaks hook
-API_KEY = "sk-test-1234567890abcdef"
+
 
 def print_numbers(n):
     for i in range(1, n + 1):
